@@ -1,7 +1,8 @@
 repo_name: 24amcoder-sb/The-Ultimate-Docker-Container-Book
 report_id: 3c3e2e28806ac4ead4b25144493b5d4e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:21:29+00:00'
+timestamp: '2024-01-05T08:39:53+00:00'
 requested_by: rajat-packt
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -55,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -65,6 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -74,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -84,8 +92,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
-  detection_source_url: sample-solutions/ch11/step2/web/package-lock.json
-  detection_source: sample-solutions/ch17/web/package.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step2/web/package-lock.json
+  detection_source: sample-solutions/ch11/step2/web/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-03-19 16:47:36.000000000 Z
 - name: Python
@@ -97,6 +105,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -107,6 +116,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -116,7 +126,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: sample-solutions/demo-app/db/scripts/init.sql
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step1/db/init-db.sql
+  detection_source: sample-solutions/ch11/step1/db/init-db.sql
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-03-19 16:51:07.000000000 Z
 - name: ".NET"
@@ -129,6 +140,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
   detection_source: sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
   last_updated_by: Gabriel N. Schenker
   last_updated_on: 2023-06-25 17:23:06.000000000 Z
@@ -143,8 +155,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
-  detection_source: sample-solutions/demo-app/PhotosApi/PhotosApi.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  detection_source: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: ASP.NET Core
@@ -158,8 +170,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
-  detection_source: sample-solutions/demo-app/PhotosApi/PhotosApi.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  detection_source: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: AlpineJS
@@ -170,6 +182,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/101749/default_1affeb0b941376ae07126433311c338b5cd86701.jpg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
   detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-05-19 15:00:10.000000000 Z
@@ -184,8 +197,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: sample-solutions/ch06/node-sample/package-lock.json
-  detection_source: sample-solutions/ch19/node/package.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/node-sample/package-lock.json
+  detection_source: sample-solutions/ch06/node-sample/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: Flask
@@ -197,7 +210,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
-  detection_source: sample-solutions/ch10/eshop/monolith/requirements.txt
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/python-demo/requirements.txt
+  detection_source: sample-solutions/ch06/python-demo/requirements.txt
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: Node.js
@@ -209,7 +223,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: sample-solutions/demo-app/photos-ui/Dockerfile
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch05/use-arg/Dockerfile
+  detection_source: sample-solutions/ch05/use-arg/Dockerfile
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: React
@@ -222,7 +237,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-11-06 11:12:44.000000000 Z
@@ -236,7 +251,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-11-06 11:12:44.000000000 Z
@@ -250,7 +265,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
-  detection_source: sample-solutions/tracing/inventory/pom.xml
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/jaeger-demo/api/pom.xml
+  detection_source: sample-solutions/ch06/jaeger-demo/api/pom.xml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 14:42:27.000000000 Z
 - name: H2 Database
@@ -261,7 +277,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
-  detection_source: sample-solutions/tracing/inventory/pom.xml
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch07/library/pom.xml
+  detection_source: sample-solutions/ch07/library/pom.xml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-02-12 16:20:33.000000000 Z
 - name: Minio
@@ -274,7 +291,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
-  detection_source_url: sample-solutions/demo-app/PhotosApi/PhotosApi.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/PhotosApi/PhotosApi.csproj
   detection_source: sample-solutions/demo-app/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-10-13 08:34:19.000000000 Z
@@ -286,7 +303,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
-  detection_source: sample-solutions/demo-app/PhotosApi/PhotosApi.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step2/web/package.json
+  detection_source: sample-solutions/ch11/step2/web/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-03-12 18:33:16.000000000 Z
 - name: Docker
@@ -298,6 +316,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: Filebeat
   description: A lightweight shipper for forwarding and centralizing log data
@@ -307,7 +326,8 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/5308/filebeat.png
-  detection_source: sample-solutions/ch12/mac-or-windows/docker-compose.yml
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-05-19 15:00:10.000000000 Z
 - name: Git
@@ -318,6 +338,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -328,7 +349,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: sample-solutions/ch19/opentelemetry/gradlew.bat
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/metrics/kotlin-api/Dockerfile
+  detection_source: sample-solutions/ch12/metrics/kotlin-api/Dockerfile
   last_updated_by: Gabriel N. Schenker
   last_updated_on: 2023-06-25 19:07:11.000000000 Z
 - name: Grafana
@@ -340,7 +362,8 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2645/default_8f9d552b144493679449b16c79647da5787e808b.jpg
-  detection_source: sample-solutions/ch19/kube/grafana.yaml
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/metrics/docker-compose.yml
+  detection_source: sample-solutions/ch12/metrics/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-05-19 15:00:10.000000000 Z
 - name: Kibana
@@ -351,7 +374,8 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png
-  detection_source: sample-solutions/ch12/mac-or-windows/docker-compose.yml
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-05-19 15:00:10.000000000 Z
 - name: Logstash
@@ -362,6 +386,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
   detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-05-19 15:00:10.000000000 Z
@@ -373,6 +398,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
   detection_source: sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
   last_updated_by: Gabriel N. Schenker
   last_updated_on: 2023-06-25 17:23:06.000000000 Z
@@ -386,7 +412,8 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
-  detection_source: sample-solutions/ch19/node/package.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/metrics/docker-compose.yml
+  detection_source: sample-solutions/ch12/metrics/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-05-19 15:00:10.000000000 Z
 - name: Vagrant
@@ -398,6 +425,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Management
   image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch02/Vagrantfile
   detection_source: sample-solutions/ch02/Vagrantfile
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
@@ -410,6 +438,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/tracing/docker-compose.yml
   detection_source: sample-solutions/tracing/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
@@ -421,6 +450,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-10-11 11:20:20.000000000 Z
@@ -433,7 +463,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
-  detection_source_url: sample-solutions/ch07/library-component-tests/library-component-tests.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch07/library-component-tests/library-component-tests.csproj
   detection_source: sample-solutions/ch07/library-component-tests/library-component-tests.csproj
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-02-12 16:20:33.000000000 Z
@@ -446,7 +476,8 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
-  detection_source: sample-solutions/tracing/inventory/src/main/resources/application.yml
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/jaeger-demo/api/src/main/resources/application.properties
+  detection_source: sample-solutions/ch06/jaeger-demo/api/src/main/resources/application.properties
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: Adminer
@@ -455,6 +486,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7285/icon.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/docker-compose.yml
   detection_source: sample-solutions/demo-app/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-10-11 11:20:20.000000000 Z
@@ -467,7 +499,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
-  detection_source: sample-solutions/ch05/config-in-image/Dockerfile
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch04/multi-step-build/Dockerfile
+  detection_source: sample-solutions/ch04/multi-step-build/Dockerfile
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: Elasticsearch
@@ -478,7 +511,8 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
-  detection_source: sample-solutions/ch12/mac-or-windows/docker-compose.yml
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-05-19 15:00:10.000000000 Z
 - name: Shell
@@ -490,6 +524,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
   detection_source: Repo Metadata
 - name: "@testing-library/jest-dom"
   description: Custom jest matchers to test the state of the DOM
@@ -501,7 +536,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-11-06 11:12:44.000000000 Z
@@ -516,7 +551,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-11-06 11:12:44.000000000 Z
@@ -530,8 +565,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: sample-solutions/ch06/node-sample/package-lock.json
-  detection_source: sample-solutions/ch19/node/package.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/node-sample/package-lock.json
+  detection_source: sample-solutions/ch06/node-sample/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: pg
@@ -544,8 +579,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: sample-solutions/ch11/step2/web/package-lock.json
-  detection_source: sample-solutions/ch17/web/package.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step2/web/package-lock.json
+  detection_source: sample-solutions/ch11/step2/web/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-03-12 18:33:16.000000000 Z
 - name: prom-client
@@ -558,7 +593,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18412/default_863e53b96f84b4092f7c0ba36b8cee4bf60d33fe.png
-  detection_source_url: sample-solutions/ch19/node/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/node/package-lock.json
   detection_source: sample-solutions/ch19/node/package.json
   last_updated_by: Gabriel N. Schenker
   last_updated_on: 2023-06-25 17:23:06.000000000 Z
@@ -572,7 +607,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-11-06 11:12:44.000000000 Z
@@ -586,7 +621,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-11-06 11:12:44.000000000 Z
@@ -600,7 +635,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-11-06 11:12:44.000000000 Z
@@ -614,7 +649,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
   detection_source: sample-solutions/demo-app/photos-ui/package.json
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-10-11 11:20:20.000000000 Z
@@ -628,7 +663,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: sample-solutions/ch06/csharp-sample/csharp-sample.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample/csharp-sample.csproj
   detection_source: sample-solutions/ch06/csharp-sample/csharp-sample.csproj
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-02-12 16:20:33.000000000 Z
@@ -642,8 +677,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
-  detection_source: sample-solutions/demo-app/PhotosApi/PhotosApi.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  detection_source: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
   last_updated_by: Gabriel Schenker
   last_updated_on: 2022-12-27 10:48:50.000000000 Z
 - name: prometheus-net.AspNetCore
@@ -657,7 +692,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15774/default_d2ff3076bb88818f9173bb6e666c15045b7b2860.png
-  detection_source_url: sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
   detection_source: sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
   last_updated_by: Gabriel N. Schenker
   last_updated_on: 2023-06-25 17:23:06.000000000 Z
@@ -671,7 +706,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: sample-solutions/ch07/library-component-tests/library-component-tests.csproj
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch07/library-component-tests/library-component-tests.csproj
   detection_source: sample-solutions/ch07/library-component-tests/library-component-tests.csproj
   last_updated_by: Gabriel Schenker
   last_updated_on: 2023-02-12 16:20:33.000000000 Z
