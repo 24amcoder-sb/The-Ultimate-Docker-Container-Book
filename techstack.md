@@ -3,43 +3,43 @@
 ## Tech Stack
 24amcoder-sb/The-Ultimate-Docker-Container-Book is built on the following main stack:
 
-- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Golang](http://golang.org/) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C#](http://csharp.net) – Languages
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [PostgreSQL](http://www.postgresql.org/) – Databases
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [C#](http://csharp.net) – Languages
+- [Golang](http://golang.org/) – Languages
+- [Java](https://www.java.com) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Logstash](http://logstash.net/) – Log Management
-- [Kibana](https://www.elastic.co/kibana) – Monitoring Tools
-- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [Zipkin](https://zipkin.io/) – Monitoring Tools
-- [Prometheus](http://prometheus.io/) – Monitoring Tools
-- [Grafana](http://grafana.org/) – Monitoring Tools
-- [xUnit](http://xunit.github.io/) – Testing Frameworks
-- [H2 Database](http://www.h2database.com/) – Databases
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - [Kotlin](https://kotlinlang.org/) – Languages
-- [Minio](https://minio.io/) – Cloud Storage
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Filebeat](https://www.elastic.co/products/beats/filebeat) – Log Management
+- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- [Flask](http://flask.pocoo.org/) – Microframeworks (Backend)
 - [AlpineJS](https://alpinejs.dev/) – Javascript UI Libraries
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Flask](http://flask.pocoo.org/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
+- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- [H2 Database](http://www.h2database.com/) – Databases
+- [Minio](https://minio.io/) – Cloud Storage
+- [PostgreSQL](http://www.postgresql.org/) – Databases
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Filebeat](https://www.elastic.co/products/beats/filebeat) – Log Management
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Grafana](http://grafana.org/) – Monitoring Tools
+- [Kibana](https://www.elastic.co/kibana) – Monitoring Tools
+- [Logstash](http://logstash.net/) – Log Management
+- [Prometheus](http://prometheus.io/) – Monitoring Tools
+- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- [Zipkin](https://zipkin.io/) – Monitoring Tools
+- [xUnit](http://xunit.github.io/) – Testing Frameworks
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -49,43 +49,43 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 24amcoder-sb/The-Ultimate-Docker-Container-Book is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1683/preview.png' alt='Logstash'/> [Logstash](http://logstash.net/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png' alt='Kibana'/> [Kibana](https://www.elastic.co/kibana) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png' alt='Zipkin'/> [Zipkin](https://zipkin.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2645/default_8f9d552b144493679449b16c79647da5787e808b.jpg' alt='Grafana'/> [Grafana](http://grafana.org/) – Monitoring Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5308/filebeat.png' alt='Filebeat'/> [Filebeat](https://www.elastic.co/products/beats/filebeat) – Log Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png' alt='Flask'/> [Flask](http://flask.pocoo.org/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/101749/default_1affeb0b941376ae07126433311c338b5cd86701.jpg' alt='AlpineJS'/> [AlpineJS](https://alpinejs.dev/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png' alt='Flask'/> [Flask](http://flask.pocoo.org/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/5308/filebeat.png' alt='Filebeat'/> [Filebeat](https://www.elastic.co/products/beats/filebeat) – Log Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2645/default_8f9d552b144493679449b16c79647da5787e808b.jpg' alt='Grafana'/> [Grafana](http://grafana.org/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png' alt='Kibana'/> [Kibana](https://www.elastic.co/kibana) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1683/preview.png' alt='Logstash'/> [Logstash](http://logstash.net/) – Log Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png' alt='Zipkin'/> [Zipkin](https://zipkin.io/) – Monitoring Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -96,7 +96,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [24amcoder-sb/The-Ultimate-Docker-Container-Book](https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|55<br/>Tools used|01/05/24 <br/>Report generated|
+|55<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
