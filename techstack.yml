@@ -1,0 +1,712 @@
+repo_name: 24amcoder-sb/The-Ultimate-Docker-Container-Book
+report_id: 3c3e2e28806ac4ead4b25144493b5d4e
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:47:36+00:00'
+requested_by: rajat-packt
+provider: github
+branch: main
+detected_tools_count: 55
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  version: 4.2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step2/web/package-lock.json
+  detection_source: sample-solutions/ch11/step2/web/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-03-19 16:47:36.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step1/db/init-db.sql
+  detection_source: sample-solutions/ch11/step1/db/init-db.sql
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-03-19 16:51:07.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
+  detection_source: sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
+  last_updated_by: Gabriel N. Schenker
+  last_updated_on: 2023-06-25 17:23:06.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  detection_source: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  detection_source: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: AlpineJS
+  description: A lightweight JavaScript framework for building interactive web interfaces
+  website_url: https://alpinejs.dev/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/101749/default_1affeb0b941376ae07126433311c338b5cd86701.jpg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-05-19 15:00:10.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/node-sample/package-lock.json
+  detection_source: sample-solutions/ch06/node-sample/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/python-demo/requirements.txt
+  detection_source: sample-solutions/ch06/python-demo/requirements.txt
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch05/use-arg/Dockerfile
+  detection_source: sample-solutions/ch05/use-arg/Dockerfile
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-11-06 11:12:44.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-11-06 11:12:44.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/jaeger-demo/api/pom.xml
+  detection_source: sample-solutions/ch06/jaeger-demo/api/pom.xml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 14:42:27.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch07/library/pom.xml
+  detection_source: sample-solutions/ch07/library/pom.xml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-02-12 16:20:33.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  version: 4.0.5
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/PhotosApi/PhotosApi.csproj
+  detection_source: sample-solutions/demo-app/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-10-13 08:34:19.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step2/web/package.json
+  detection_source: sample-solutions/ch11/step2/web/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-03-12 18:33:16.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: Filebeat
+  description: A lightweight shipper for forwarding and centralizing log data
+  website_url: https://www.elastic.co/products/beats/filebeat
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/5308/filebeat.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-05-19 15:00:10.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/metrics/kotlin-api/Dockerfile
+  detection_source: sample-solutions/ch12/metrics/kotlin-api/Dockerfile
+  last_updated_by: Gabriel N. Schenker
+  last_updated_on: 2023-06-25 19:07:11.000000000 Z
+- name: Grafana
+  description: Open source Graphite &amp; InfluxDB Dashboard and Graph Editor
+  website_url: http://grafana.org/
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2645/default_8f9d552b144493679449b16c79647da5787e808b.jpg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/metrics/docker-compose.yml
+  detection_source: sample-solutions/ch12/metrics/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-05-19 15:00:10.000000000 Z
+- name: Kibana
+  description: Visualize your Elasticsearch data and navigate the Elastic Stack
+  website_url: https://www.elastic.co/kibana
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-05-19 15:00:10.000000000 Z
+- name: Logstash
+  description: Collect, Parse, &amp; Enrich Data
+  website_url: http://logstash.net/
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-05-19 15:00:10.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
+  detection_source: sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
+  last_updated_by: Gabriel N. Schenker
+  last_updated_on: 2023-06-25 17:23:06.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/metrics/docker-compose.yml
+  detection_source: sample-solutions/ch12/metrics/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-05-19 15:00:10.000000000 Z
+- name: Vagrant
+  description: A tool for building and distributing development environments
+  website_url: http://www.vagrantup.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Management
+  image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch02/Vagrantfile
+  detection_source: sample-solutions/ch02/Vagrantfile
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: Zipkin
+  description: A distributed tracing system
+  website_url: https://zipkin.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2494/8leuukuhknbc8fj0eg42_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/tracing/docker-compose.yml
+  detection_source: sample-solutions/tracing/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-10-11 11:20:20.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.4.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch07/library-component-tests/library-component-tests.csproj
+  detection_source: sample-solutions/ch07/library-component-tests/library-component-tests.csproj
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-02-12 16:20:33.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/jaeger-demo/api/src/main/resources/application.properties
+  detection_source: sample-solutions/ch06/jaeger-demo/api/src/main/resources/application.properties
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: Adminer
+  description: Full-featured database management tool written in PHP.
+  website_url: https://www.adminer.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7285/icon.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/docker-compose.yml
+  detection_source: sample-solutions/demo-app/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-10-11 11:20:20.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch04/multi-step-build/Dockerfile
+  detection_source: sample-solutions/ch04/multi-step-build/Dockerfile
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch12/log-shipping/docker-compose.yml
+  detection_source: sample-solutions/ch12/log-shipping/docker-compose.yml
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-05-19 15:00:10.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book
+  detection_source: Repo Metadata
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-11-06 11:12:44.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-11-06 11:12:44.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/node-sample/package-lock.json
+  detection_source: sample-solutions/ch06/node-sample/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch11/step2/web/package-lock.json
+  detection_source: sample-solutions/ch11/step2/web/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-03-12 18:33:16.000000000 Z
+- name: prom-client
+  description: Client for prometheus
+  package_url: https://www.npmjs.com/prom-client
+  version: 14.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18412/default_863e53b96f84b4092f7c0ba36b8cee4bf60d33fe.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/node/package-lock.json
+  detection_source: sample-solutions/ch19/node/package.json
+  last_updated_by: Gabriel N. Schenker
+  last_updated_on: 2023-06-25 17:23:06.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-11-06 11:12:44.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-11-06 11:12:44.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-11-06 11:12:44.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 8.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/demo-app/photos-ui/package-lock.json
+  detection_source: sample-solutions/demo-app/photos-ui/package.json
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-10-11 11:20:20.000000000 Z
+- name: Microsoft.Extensions.Logging
+  description: Logging infrastructure default implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample/csharp-sample.csproj
+  detection_source: sample-solutions/ch06/csharp-sample/csharp-sample.csproj
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-02-12 16:20:33.000000000 Z
+- name: Swashbuckle.AspNetCore
+  description: Swagger tools for documenting APIs built on ASP.NET Core
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore
+  version: 6.4.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  detection_source: sample-solutions/ch06/csharp-sample-2/csharp-sample-2.csproj
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2022-12-27 10:48:50.000000000 Z
+- name: prometheus-net.AspNetCore
+  description: ASP.NET Core middleware and stand-alone Kestrel server for exporting
+    metrics to Prometheus
+  package_url: https://www.nuget.org/prometheus-net.AspNetCore
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15774/default_d2ff3076bb88818f9173bb6e666c15045b7b2860.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
+  detection_source: sample-solutions/ch19/dotnet/sample-api/sample-api.csproj
+  last_updated_by: Gabriel N. Schenker
+  last_updated_on: 2023-06-25 17:23:06.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.4.5
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/24amcoder-sb/The-Ultimate-Docker-Container-Book/blob/main/sample-solutions/ch07/library-component-tests/library-component-tests.csproj
+  detection_source: sample-solutions/ch07/library-component-tests/library-component-tests.csproj
+  last_updated_by: Gabriel Schenker
+  last_updated_on: 2023-02-12 16:20:33.000000000 Z
